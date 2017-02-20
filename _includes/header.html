@@ -3,11 +3,13 @@
     <ul id="slide-out" class="side-nav">
         <li><a href="{{ site.baseurl }}/" class="{{ site.color.navbar }}-text">Home</a></li>
         <li><a href="https://github.com/ModernTLD/www.modernnic.org/wiki" class="{{ site.color.navbar }}-text">Wiki</a></li>
+        <li><a href="{{ "/about/" | prepend: site.baseurl }}" class="{{ site.color.navbar }}-text">About</a></li>
     </ul>
     <div class="container container-large">
     <a class="brand-logo" href="{{ site.baseurl }}/" class="orange-text"><span class="light {{ site.color.navbar }}-text"><b>{{ site.title }}</b> {{ site.site }}</span></a>
     <ul class="right hide-on-med-and-down">
         <li><a href="https://github.com/ModernTLD/www.modernnic.org/wiki" class="{{ site.color.navbar }}-text">Wiki</a></li>
+        <li><a href="{{ "/about/" | prepend: site.baseurl }}" class="{{ site.color.navbar }}-text">About</a></li>
     </ul>
     <a href="#" data-activates="slide-out" class="button-collapse right {{ site.color.navbar }}-text"><i class="material-icons">menu</i></a>
     </div>
