@@ -17,9 +17,7 @@ The operational organizations listed here represent the Board of Directors of Mo
 
 The following organizations have expressed interest in joining the operating ranks of ModernNIC.
 
-  - CoreDomain: Operators of the `.core` domain. Currently in the Proposal stage.
-    - President and Operator: Joseph Marsden
-    - Sponsoring Group: TOWER Development
+  - None - If you would like to propose a new TLD, follow the guidelines specified below.
 
 ### Guidelines
 
